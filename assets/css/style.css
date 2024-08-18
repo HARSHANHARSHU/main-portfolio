@@ -8078,7 +8078,6 @@ body.template-color-1 {
     @media only screen and (max-width: 767px) {
       .logo a img {
         max-height: 54px; } }
-
 @media only screen and (max-width: 1199px) {
   .rn-header .header-wrapper.menu-open #sideNav {
     right: 0 !important; }
@@ -8178,7 +8177,6 @@ body.template-color-1 {
   .header-style-2 .header-right .hamberger-menu i {
     font-size: 32px;
     color: var(--color-primary); }
-
 /*--------------------------
     Navigation Styles  
 ----------------------------*/
